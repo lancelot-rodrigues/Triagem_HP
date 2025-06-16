@@ -64,6 +64,16 @@ Com o arquivo carregado, execute as células do notebook
 A maneira mais direta é acessar o menu Ambiente de execução e selecionar Executar tudo  
 O notebook vai carregar os dados, preparar as informações, treinar o modelo e ao final exibir os resultados com a taxa de acerto, a matriz de confusão e a importância de cada característica usada na análise
 
-**Link do notebook no Colab**
+## Link do notebook no Colab
 
 https://colab.research.google.com/drive/1mtfcWwpNdwA00A3buev-GfLX_6AFCy6b#scrollTo=geBbay1Geds4
+
+
+## Integrantes do projeto
+
+Lancelot Chagas Rodrigues / 554707
+
+Ana Carolina Martins da Silva / 555762
+
+Kauan Alves Batista / 555082
+
